@@ -24,6 +24,6 @@
 <p>Em resumo, o evento esportivo realizado no Estádio Municipal, em São Paulo, no dia 15 de setembro de 2022, atraiu cerca de 30.000 expectadores e teve como vencedor o time do Palmeiras, que derrotou o Corinthians por 2 a 1. Foi um jogo emocionante e repleto de momentos marcantes para os fãs de futebol.
 </p>
    
-   **[Este texto está disponível no Github.com, atraves do link abaixo](**
+   **[Este texto está disponível no Github.com, atraves do link abaixo](**https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/blob/92fa7b3cbaca8b0b12a3e1a30ec435921aa16fbd/README.md**)
   
  
