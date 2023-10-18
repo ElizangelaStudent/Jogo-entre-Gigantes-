@@ -1,7 +1,12 @@
 <p align="center">
 <img width="180px" height= 269 src=https://github.com/ElizangelaStudent/-L-GICA-DE-PROGRAMA-O-I-PY-/blob/3ada955ac03cec07b6173afaf1152dc7851f5434/homem%20letra.gif
-
 </p>
+
+<p align="center">
+<img width="180px" height= 269 src
+https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/f58b2fba-8e02-4a36-8237-ddccbe049729
+</p>
+
 
   # <p align="center"> **Clássico das Torcidas: Corinthians vs Palmeiras - A Batalha dos Gigantes**</p>
 
