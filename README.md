@@ -1,6 +1,8 @@
 <p align="center">
 <img width="140px" height=220 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/0fc7a147-55a7-4899-9a96-7c033e50dee8
 </p>
+<img width="140px" height=220 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/4654cde7-a8a6-4660-b005-be6d51669b28
+</p>
 
   # <p align="center"> **Clássico das Torcidas: Corinthians vs Palmeiras - A Batalha dos Gigantes**</p>
 
