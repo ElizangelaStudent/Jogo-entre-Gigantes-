@@ -11,23 +11,18 @@
 <img width="40px" height=40 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/b236c0c9-3b79-489b-a5dd-e0a5d8d1ca2a </p>
 <img width="80px" height= 80 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/f58b2fba-8e02-4a36-8237-ddccbe049729 </p>
  
- ## Aula 1-Tipos, variaveis, leitura de dados, palavras reservadas, mudanças de tipos e operações aritmeticas
-
-   Python é uma linguagem de propósito geral de alto nível, multiparadigma, suporta o paradigma orientado a objetos, imperativo, funcional e procedural. Possui tipagem dinâmica e uma de suas principais características é permitir a fácil leitura do código e exigir poucas linhas de código se comparado ao mesmo programa em outras linguagens. Nessa Aula veremos os tipos, as variaveis,como realizamos a leitura de dados, um pouco sobre palavras reservadas, como realizamos a mudanças de int para float e operações aritmeticas.
+   <p No dia 15 de setembro de 2022, ocorreu o evento esportivo no Estádio Municipal, localizado na cidade de São Paulo. O evento contou com a presença de aproximadamente 30.000 expectadores, que se reuniram para assistir a uma emocionante partida de futebol entre os times Corinthians e Palmeiras.
+    </p>
+   <p O jogo foi bastante disputado, com ambos os times demonstrando habilidade e determinação em campo. No entanto, ao final dos 90 minutos regulamentares, o time do Palmeiras saiu vitorioso, conquistando a vitória por 2 a 1 sobre o Corinthians.
+     </p>
+    <p A partida foi marcada por grandes jogadas, gols emocionantes e uma atmosfera eletrizante, que envolveu os torcedores presentes. Os jogadores de ambas as equipes demonstraram um desempenho excepcional, proporcionando um espetáculo esportivo memorável para todos os espectadores.</p>
+    <p Esse evento esportivo foi mais um capítulo da intensa rivalidade entre Corinthians e Palmeiras, que sempre desperta grande interesse e paixão nos fãs de futebol.
+    </p>
+    <p A vitória do Palmeiras nessa partida certamente deixou seus torcedores orgulhosos, enquanto os torcedores do Corinthians já aguardam ansiosamente pela próxima oportunidade de revanche.
+    </p>
+    <p Em resumo, o evento esportivo realizado no Estádio Municipal, em São Paulo, no dia 15 de setembro de 2022, atraiu cerca de 30.000 expectadores e teve como vencedor o time do Palmeiras, que derrotou o Corinthians por 2 a 1. Foi um jogo emocionante e repleto de momentos marcantes para os fãs de futebol.
+      </p>
    
-   **[Aula 1](https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/8fc437f686c392f343e5e693b756091bc3d67cfa/Aula_1_tipos,_variaveis,_leitura_de_dados,_palavras_reservadas,_mudan%C3%A7as_de_tipos_e_opera%C3%A7%C3%B5es_aritmeticas.ipynb)**
+   **[Este texto está disponível no Github.com, atraves do link abaixo](**
   
- ## Aula 2- Operadores lógicos, condicionais
  
- Quando estudamos variáveis, vimos que existem alguns tipos primitivos: str (texto), int (número inteiro), float (número real) e bool (lógico). Vimos diversas operações aritméticas também, como a soma, a divisão ou a potência, cujos resultados são int ou float. Porém, podemos ter também operações cujo resultado é bool: são operações lógicas, nesta aula tambem veremos sobre condicionais que nada mais é do que uma expressão lógica. Se a condição for verdadeira, as linhas são executadas. Senão, são ignoradas.
- 
- 
- **[Aula 2](https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/8fc437f686c392f343e5e693b756091bc3d67cfa/Aula_2_Operadores_l%C3%B3gicos,_condicionais.ipynb)**
- 
- ## Aula 3- Laços de repetição- While/break/continue
- 
- Nesta aula iremos discutir sobre uma ferramenta muito importante na programação imperativa que são os Laços de repetição em Python, mas especificamente sobre while. Em algumas situações, é comum que uma mesma instrução (ou conjunto delas) precise ser executada várias vezes seguidas. Nesses casos, normalmente utilizamos um loop (ou laço de repetição), que permite executar um bloco de código repetidas vezes, enquanto uma dada condição é atendida.  
-
-
- 
- **[Aula 3](https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/8fc437f686c392f343
