@@ -8,7 +8,7 @@
 <p align="center"> Este projeto tem como finalidade descrever uma partida de futebol entre Corinthians vs Palmeiras. O evento mencionado é uma história fictícia.</p>
 
 <p align="center">
-<img width="70px" height= 40 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/88a27682-3720-473a-a068-ecfcedcbabee)g />
+<img width="70px" height= 40 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/80e2dd6d-bc91-4aee-be3a-21ab29438df0 />
 
  
  ## Aula 1-Tipos, variaveis, leitura de dados, palavras reservadas, mudanças de tipos e operações aritmeticas
