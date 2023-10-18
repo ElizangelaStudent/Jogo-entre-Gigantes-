@@ -8,8 +8,8 @@
 <p align="center"> Este projeto tem como finalidade descrever uma partida de futebol entre Corinthians vs Palmeiras. O evento mencionado é uma história fictícia.</p>
 
 <p align="center">
-<img width="70px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/103c4302c09169b794bdf7b4f6207fa637f5320e/log%20suzano.png />
-<img width="50px" height= 30 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-I-PY-/blob/c0a773c80eb372f4384cdeefa1ee51461da8bc36/ADA.jpeg />
+<img width="70px" height= 40 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/88a27682-3720-473a-a068-ecfcedcbabee)g />
+
 
 
 
