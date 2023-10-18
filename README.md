@@ -7,7 +7,7 @@
 <p align="center"> Este projeto tem como finalidade descrever uma partida de futebol entre Corinthians vs Palmeiras. O evento mencionado é uma história fictícia.</p>
 
 <p align="center">
-<img width="70px" height= 70 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/74e3372b-8468-4ef9-8670-7379618b4a0b/>
+<img width="80px" height= 80 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/74e3372b-8468-4ef9-8670-7379618b4a0b/>
 <img width="30px" height=30 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/3942ab80-60e2-4716-8146-aeb41dfcc4bb/>
 <img width="80px" height= 80 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/f58b2fba-8e02-4a36-8237-ddccbe049729 />
  
