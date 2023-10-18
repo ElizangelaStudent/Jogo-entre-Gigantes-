@@ -15,7 +15,7 @@
 </p>
 <p Align="justify"> O jogo foi bastante disputado, com ambos os times demonstrando habilidade e determinação em campo. No entanto, ao final dos 90 minutos regulamentares, o time do Palmeiras saiu vitorioso, conquistando a vitória por 2 a 1 sobre o Corinthians.
 </p>
-<p Align="justify">A partida foi marcada por grandes jogadas, gols emocionantes e uma atmosfera eletrizante, que envolveu os torcedores presentes. Os jogadores de ambas as equipes demonstraram um desempenho excepcional, proporcionando um espetáculo esportivo memorável para todos os espectadores.
+<p Align="justify">A partida foi marcada por grandes jogadas, gols emocionantes e uma atmosfera eletrizante, que envolveu os torcedores presentes. Os jogadores de ambas as equipes demonstraram um desempenho excepcional, encantando e proporcionando um espetáculo esportivo memorável para todos os espectadores.
 </p>
 <p Align="justify">Esse evento esportivo foi mais um capítulo da intensa rivalidade entre Corinthians e Palmeiras, que sempre desperta grande interesse e paixão nos fãs de futebol.
 </p>
