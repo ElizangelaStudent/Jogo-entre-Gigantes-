@@ -3,7 +3,7 @@
 
 </p>
 
-  # <p Clássico das Torcidas: Corinthians vs Palmeiras - A Batalha dos Gigantes**
+  # <p align="center">**Clássico das Torcidas: Corinthians vs Palmeiras - A Batalha dos Gigantes**
 </p>
 
 <p align="center"> Este projeto tem como finalidade descrever uma partida de futebol entre Corinthians vs Palmeiras. O evento mencionado é uma história fictícia.</p>
