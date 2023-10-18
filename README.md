@@ -10,10 +10,6 @@
 <p align="center">
 <img width="70px" height= 40 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/88a27682-3720-473a-a068-ecfcedcbabee)g />
 
-
-
-
-
  
  ## Aula 1-Tipos, variaveis, leitura de dados, palavras reservadas, mudanças de tipos e operações aritmeticas
 
