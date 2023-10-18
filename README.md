@@ -8,7 +8,7 @@
 
 <p align="center">
 <img width="80px" height= 80 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/74e3372b-8468-4ef9-8670-7379618b4a0b</p>
-<img width="30px" height=30 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/b236c0c9-3b79-489b-a5dd-e0a5d8d1ca2a </p>
+<img width="40px" height=40 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/b236c0c9-3b79-489b-a5dd-e0a5d8d1ca2a </p>
 <img width="80px" height= 80 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/f58b2fba-8e02-4a36-8237-ddccbe049729 </p>
  
  ## Aula 1-Tipos, variaveis, leitura de dados, palavras reservadas, mudanças de tipos e operações aritmeticas
